@@ -1,0 +1,12 @@
+# Ignoring some files
+
+__pycache__
+file.json
+test_params_create
+main_delete.py
+*.tgz
+test.py
+*main.py
+7-dump.sql
+10-dump.sql
+100-dump.sql
